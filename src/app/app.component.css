@@ -26,3 +26,7 @@ h1 {
   nav a.active {
     color: #039be5;
   }
+
+  .navBtn {
+    margin-right: 5px;
+  }
